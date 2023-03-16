@@ -56,3 +56,10 @@ h3 {
     position: absolute;
 
 } */
+
+.skills {
+    display: inline-block;
+    height: 50px;
+    width: auto;
+    margin: 5px;
+}
