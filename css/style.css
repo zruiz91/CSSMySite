@@ -19,25 +19,25 @@ h3 {
 }
 
 
-#first_div {
+#top-container {
     background-color: #C9EEFF;
     position: relative;
     padding-top: 100px;
 
 }
 
-#second_div {
+/* #middle-container {
     background-color: red;
     height: 200px;
     width: 200px;
 }
 
-#third_div {
+#bottom-container {
     background-color: blue;
     height: 200px;
     width: 200px;
 
-}
+} */
 
 #top_cloud {
     position: absolute;
