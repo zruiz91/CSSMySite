@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0px;
+
+}
+
+
+#first_div {
+    background-color: #C9EEFF;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+#second_div {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+#third_div {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+
+}
+
+#top_cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+#bottom_cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+
+/* #mountain {
+    position: absolute;
+
+} */
