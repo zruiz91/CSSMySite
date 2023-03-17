@@ -5,17 +5,22 @@ body {
 }
 
 h1 {
-    margin-top: 0px;
+    margin: 50px auto 0px auto;
     font-family: 'Sacramento', cursive;
-
+    font-size: 2.5rem;
+    color: #66BFBF;
+    line-height: 2;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
 }
 
 h3 {
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
 }
 
 
@@ -27,12 +32,10 @@ h3 {
 }
 
 /* #middle-container {
-    background-color: red;
-    height: 200px;
-    width: 200px;
-}
 
-#bottom-container {
+} */
+
+/* #bottom-container {
     background-color: blue;
     height: 200px;
     width: 200px;
@@ -62,4 +65,18 @@ h3 {
     height: 50px;
     width: auto;
     margin: 5px;
+}
+
+#profile_picture {
+    margin-top: 30px;
+}
+
+a {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
 }
