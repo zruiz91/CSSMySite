@@ -27,6 +27,7 @@ h3 {
 
 p {
     color: #40514E;
+    line-height: 2;
 }
 
 hr {
@@ -37,6 +38,17 @@ hr {
     height: 1px;
     width: 5%;
     margin: 100px auto 100px auto;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
 }
 
 .top-container {
@@ -52,17 +64,18 @@ hr {
 
 .bottom-container {
     background-color: #66BFBF;
+    padding: 50px 0 20px 0;
 }
 
 #top_cloud {
     position: absolute;
     right: 300px;
-    top: 50px;
+    top: 40px;
 }
 
 #bottom_cloud {
     position: absolute;
-    left: 300px;
+    left: 250px;
     bottom: 300px;
 }
 
@@ -104,9 +117,6 @@ hr {
     margin-top: 30px;
 }
 
-a {
-    color: #11999E;
-}
 .intro {
     width: 30%;
     margin: auto;
@@ -116,7 +126,7 @@ a {
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;
+
 }
 
 .btn {
@@ -151,6 +161,13 @@ a {
     margin: 100px auto 100px auto;
 }
 
-.copywrite {
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
     color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
 }
